@@ -1,0 +1,14 @@
+{
+  "name": "get-started-typescript",
+  "version": "1.0.0",
+  "description": "Curso de TypeScript con la documentación de Microsoft",
+  "main": "index.js",
+  "scripts": {
+    "tsc": "tsc"
+  },
+  "author": "OscarAlvarezP",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.2.4"
+  }
+}
